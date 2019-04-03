@@ -1,4 +1,4 @@
-Silverlinkz Photo Gallery
+Photo Gallery - <TODO>
 =========================
 
 [![Build Status](https://travis-ci.org/jsilvermist/sl-gallery.svg?branch=master)](https://travis-ci.org/jsilvermist/sl-gallery)
