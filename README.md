@@ -1,7 +1,7 @@
 Photo Gallery - <TODO>
 =========================
 
-[![Build Status](https://travis-ci.org/jsilvermist/sl-gallery.svg?branch=master)](https://travis-ci.org/jsilvermist/sl-gallery)
+[![Build Status](https://travis-ci.org/jpleerdam/sl-gallery.svg?branch=master)](https://travis-ci.org/jpleerdam/sl-gallery)
 [![Published on npm](https://img.shields.io/npm/v/@silverlinkz/sl-gallery.svg)](https://www.npmjs.com/package/@silverlinkz/sl-gallery)
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@silverlinkz/sl-gallery)
 
@@ -35,22 +35,14 @@ bower install --save jsilvermist/sl-gallery#^1.0.0
 Import the gallery (Polymer 3):
 
 ```javascript
-import '@silverlinkz/sl-gallery';
+import '@jpleerdam/gallery';
 ```
-
-Legacy import (Polymer 2 / Bower):
-
-```html
-<link rel="import" href="bower_components/sl-gallery/sl-gallery.html">
-```
-
-Create an `sl-gallery` element, and add `sl-gallery-image` elements for each image:
 
 <!--
 ```
 <custom-element-demo>
   <template>
-    <link rel="import" href="sl-gallery.html">
+    <link rel="import" href="gallery.html">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
