@@ -1,7 +1,7 @@
 {
-  "name": "@silverlinkz/sl-gallery",
+  "name": "@jpleerdam/gallery",
   "description": "A web-component based hash-route photo gallery.",
-  "version": "2.3.2",
+  "version": "1.0.0",
   "main": "sl-gallery.js",
   "files": [
     "sl-gallery*.js"
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsilvermist/sl-gallery.git"
+    "url": "git+https://github.com/jpleerdam/gallery.git"
   },
   "keywords": [
     "gallery",
@@ -23,15 +23,15 @@
     "prpl",
     "web-component"
   ],
-  "author": "Jsilvermist <jsilvermist@silverlinkz.net> (https://silverlinkz.net)",
+  "author": "Jpleerdam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jsilvermist/sl-gallery/issues"
+    "url": "https://github.com/jpleerdam/gallery/issues"
   },
-  "homepage": "https://github.com/jsilvermist/sl-gallery#readme",
+  "homepage": "https://github.com/jpleerdam/gallery#readme",
   "dependencies": {
     "@jsilvermist/fullscreen-api": "^0.2.0",
-    "@polymer/app-layout": "^3.0.1",
+    "@polymer/app-layout": "^3.0.2",
     "@polymer/iron-iconset-svg": "^3.0.1",
     "@polymer/iron-image": "^3.0.1",
     "@polymer/paper-icon-button": "^3.0.1",
